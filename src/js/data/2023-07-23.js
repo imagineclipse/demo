@@ -145,19 +145,19 @@ dataSet[dataSetVersion].options = [
 
 dataSet[dataSetVersion].characterData = [
   {
-    name: "Hakurei Reimu",
-    img: "c5DqpgX.png",
+    name: "Young K (DAY6)",
+    img: "Tyey0Tg.jpg",
     opts: {
-      series: [ "book", "EoSD", "PCB", "IaMP", "IN", "PoFV", "StB", "SWR", "MoF", "SA", "UFO", "soku", "DS", "TD", "HM", "DDC", "ISC", "ULiL", "LoLK", "AoCF", "HSiFS", "VD", "WBaWC", "UM" ],
-      stage: ["st4"]
+      group: [ "day6" ],
+      gen: ["gen3"]
     }
   },
   {
-    name: "Kirisame Marisa",
-    img: "tJnkSzK.png",
+    name: "Brian (DAY6)",
+    img: "jKqOas0.jpg",
     opts: {
-      series: [ "book", "EoSD", "PCB", "IaMP", "IN", "PoFV", "StB", "SWR", "MoF", "SA", "UFO", "soku", "DS", "GFW", "TD", "HM", "DDC", "ISC", "ULiL", "LoLK", "AoCF", "HSiFS", "VD", "WBaWC", "UM" ],
-      stage: ["st4", "ex"]
+      group: [ "day6" ],
+      gen: ["gen3"]
     }
   }
 ];
