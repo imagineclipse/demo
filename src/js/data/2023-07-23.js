@@ -136,26 +136,10 @@ dataSet[dataSetVersion].options = [
   {
     name: "Filter by Generations",
     key: "gen",
-    tooltip: "Check this to restrict to characters that appear in certain stages as enemies.",
+    tooltip: "Check this to restrict to generations, generations based on debut years.",
     checked: false,
     sub: [ { name: "1st Gen", key: "gen1" }, { name: "2nd Gen", key: "gen2" }, { name: "3rd Gen", key: "gen3" }, { name: "4th Gen", key: "gen4" }, { name: "5th Gen", key: "gen5" },
     ]
-  },
-  {
-    name: "Remove PC-98 Duplicates",
-    key: "pc98",
-    tooltip: "Check this to remove PC-98 characters with a Windows counterpart."
-  },
-  {
-    name: "Remove Non-Girls",
-    key: "notgirl",
-    tooltip: "Check this to remove all non-female characters."
-  },
-  {
-    name: "Remove Nameless Characters",
-    key: "nameless",
-    tooltip: "Check this to remove all characters without canonical names.",
-    checked: false
   }
 ];
 
